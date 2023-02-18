@@ -60,7 +60,7 @@ Window Automation &amp; Management for .Net C#
     -> Window-Text : Default IME
  ```
  * The Process "Clicker" & The Window "Menu" 
- ![Clicker_vZZb3lHkOz](https://user-images.githubusercontent.com/76597572/219881554-bfde7111-e353-42d9-9b37-7c513e37954d.png)
+ * ![The Process "Clicker" & The Window "Menu"](https://user-images.githubusercontent.com/76597572/219881554-bfde7111-e353-42d9-9b37-7c513e37954d.png)
  
 # Realses : 
  1. 1.0 -> Initial Release.
