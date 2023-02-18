@@ -13,10 +13,9 @@ Window Automation &amp; Management for .Net C#
 ### No Documentation At This Moment.
 
 # Usage
-   
-   * The **XML documentation** in the source is *self-explanatory*.
-   * Usage, for instance :
- ```cs
+  * The **XML documentation** in the source is *self-explanatory*.
+  * Usage, for instance :
+  ```cs
             Process[] procs = Process.GetProcessesByName("Clicker");
             foreach (Process proc in procs)
             {
@@ -34,7 +33,7 @@ Window Automation &amp; Management for .Net C#
                     }
                 }
             }
- ```
+  ```
    
 # Realses : 
   1. 1.0 -> Initial Release.
