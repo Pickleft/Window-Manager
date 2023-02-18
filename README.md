@@ -64,3 +64,6 @@ Window Automation &amp; Management for .Net C#
  
 # Realses : 
  1. 1.0 -> Initial Release.
+ 
+# Credits : 
+  * [@Pickleft](https://twitter.com/Pickleft) / Pickleft#1853
