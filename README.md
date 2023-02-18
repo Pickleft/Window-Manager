@@ -35,7 +35,7 @@ Window Automation &amp; Management for .Net C#
             }
  ```
  * **OutPut** 
- ```cs
+ ```
     -> Window-Text : Menu
         Control-Text :
         Control-Text :
