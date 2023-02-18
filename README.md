@@ -59,8 +59,8 @@ Window Automation &amp; Management for .Net C#
     -> Window-Text : GDI+ Window (Clicker.exe)
     -> Window-Text : Default IME
  ```
- * The Process "Clicker" & The Window "Menu"
- ![The Process "Clicker" & The Window "Menu"](https://user-images.githubusercontent.com/76597572/219881393-e4411b84-09fa-470c-9864-8934f13259aa.png)
+ * The Process "Clicker" & The Window "Menu" 
+ ![Clicker_vZZb3lHkOz](https://user-images.githubusercontent.com/76597572/219881554-bfde7111-e353-42d9-9b37-7c513e37954d.png)
  
 # Realses : 
  1. 1.0 -> Initial Release.
