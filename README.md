@@ -2,7 +2,7 @@
 Window Automation &amp; Management for .Net C#
 
 # Getting Started :
-  1. Manually adding the reference :
+  * Manually adding the reference :
     1. Download the latest Release.
     2. Right click "References" in your solution explorer in Visual Studio 22.
     3. Click add reference.
