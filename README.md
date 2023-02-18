@@ -2,19 +2,19 @@
 Window Automation &amp; Management for .Net C#
 
 # Getting Started :
-  * Manually adding the reference :
-    1. Download the latest Release.
-    2. Right click "References" in your solution explorer in Visual Studio 22.
-    3. Click add reference.
-    4. In the Browse tab click Browse.
-    5. Head to the location of the downloaded Release and select it and double click it.
+ * Manually adding the reference :
+  * Download the latest Release.
+  * Right click "References" in your solution explorer in Visual Studio 22.
+  * Click add reference.
+  * In the Browse tab click Browse.
+  * Head to the location of the downloaded Release and select it and double click it.
 
 ### No Documentation At This Moment.
 
 # Usage 
-  * The **XML documentation** in the source is *self-explanatory*.
-  * Usage, for instance :
-  ```cs
+ * The **XML documentation** in the source is *self-explanatory*.
+ * Usage, for instance :
+ ```cs
             Process[] procs = Process.GetProcessesByName("Clicker");
             foreach (Process proc in procs)
             {
@@ -32,7 +32,7 @@ Window Automation &amp; Management for .Net C#
                     }
                 }
             }
-  ```
+ ```
    
 # Realses : 
   1. 1.0 -> Initial Release.
